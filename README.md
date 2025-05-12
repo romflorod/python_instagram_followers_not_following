@@ -47,7 +47,7 @@ This Python script helps you analyze your Instagram followers and identify users
 
 4.  **Set your username:**
 
-    *   In the `insta.py` file, replace `"tazuhslowfi"` with your Instagram username:
+    *   In the `insta.py` file, replace `"your_username"` with your Instagram username:
 
         ```python
         username = "your_username"
