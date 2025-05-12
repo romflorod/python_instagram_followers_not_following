@@ -12,11 +12,11 @@ This Python script helps you analyze your Instagram followers and identify users
 
 ## Setup
 
-1.  **Clone the repository:**
+1.  **Clone the repository or copy the .py file:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/romflorod/python_instagram_followers_not_following/
+    cd https://github.com/romflorod/python_instagram_followers_not_following/
     ```
 
 2.  **Install the `requests` library:**
